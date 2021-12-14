@@ -1,0 +1,7 @@
+﻿{
+    "watermelonAmount": 15335,
+    "wmPerClick": 1,
+    "wps": 0,
+    "itemPrice": 176,
+    "itemAmount": 78
+}
